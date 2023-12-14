@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch, .NET Framework**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java, R, C#**
 
 - 📫 How to reach me **joseserra803@gmail.com**
 
